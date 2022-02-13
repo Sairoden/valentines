@@ -1,0 +1,13 @@
+.letter-btn {
+  margin-left: 2rem;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+#wrapper {
+  margin-top: -7rem;
+}
+
+b {
+  font-weight: 700;
+}
